@@ -1,0 +1,25 @@
+{
+  "name": "authorization",
+  "version": "1.0.0",
+  "description": "Serverless Lambda API Authorizer",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/winzter143/serverless-lambda-api-gateway-autorizer.git"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "winzter143",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winzter143/serverless-lambda-api-gateway-autorizer/issues"
+  },
+  "homepage": "https://github.com/winzter143/serverless-lambda-api-gateway-autorizer#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
